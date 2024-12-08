@@ -1,7 +1,7 @@
 module.exports = {
   config: {
     name: `${global.config.prefix}`,
-    credits: "Nayan",
+    credits: "Joy",
     prefix: "auto",
     aliases: ["."],
     description: "Random Caption With random photo",
